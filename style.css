@@ -35,6 +35,7 @@ button::before{
     border-radius: 53px;
     height: 90%;
     display: inline-block;
+    margin-bottom: 12px;
     
 }
 
