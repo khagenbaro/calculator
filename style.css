@@ -13,6 +13,7 @@ input{
     font-size:34px;
     height: 65px;
     width: 456px;
+    margin-bottom: 12px;
 }
 
 button{
@@ -22,6 +23,9 @@ button{
     width: 88px;
     height: 63px;
     margin: 6px;
+}
+button::before{
+    content: '';
 }
 
 .calculator{ 
