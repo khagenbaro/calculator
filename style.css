@@ -13,7 +13,7 @@ input{
     font-size:34px;
     height: 65px;
     width: 456px;
-    margin-bottom: 12px;
+    margin-bottom: 16x;
 }
 
 button{
@@ -35,7 +35,7 @@ button::before{
     border-radius: 53px;
     height: 90%;
     display: inline-block;
-    margin-bottom: 12px;
+    margin-bottom: 14;
     
 }
 
